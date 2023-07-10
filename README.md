@@ -1,4 +1,4 @@
-#Tic Tac Toe Game 
+##Tic Tac Toe Game 
 This is a Terminal based game made with Text.
 
 It is a Tic Tac Toe game with features :-
